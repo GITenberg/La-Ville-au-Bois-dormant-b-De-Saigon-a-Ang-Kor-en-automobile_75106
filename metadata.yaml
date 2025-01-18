@@ -1,0 +1,28 @@
+_repo: La-Ville-au-Bois-dormant-b-De-Saigon-a-Ang-Kor-en-automobile_75106
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Montpensier, Ferdinand François Philippe Marie d'Orléans
+    gutenberg_agent_id: '57830'
+    url: http://www.gutenberg.org/2009/agents/57830
+description: ''
+gutenberg_issued: '2025-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75106'
+language: fr
+pgterms:marc904: https://archive.org/details/lavilleauboisdor00mont
+pgterms:marc905: 20210530054935montpensie
+pgterms:marc906: '1909'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: '  $aParis :$bPlon, $c1909, copyright 1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'La Ville au Bois dormant : $b De Saïgon à Ang-Kor en automobile'
+url: http://www.gutenberg.org/ebooks/75106
